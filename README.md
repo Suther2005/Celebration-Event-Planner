@@ -2,6 +2,9 @@
 > **Google PromptWars Virtual Challenge 05 Entry**  
 > A modern, responsive celebration management command center for weddings, milestone birthdays, anniversaries, community festivals, and charity galas. Powered by React, Vite, Tailwind CSS, and the Google Gemini API with instant offline fallback resilience.
 
+🚀 **Live Production URL**: [https://celebration-event-planner-one.vercel.app](https://celebration-event-planner-one.vercel.app)  
+📦 **GitHub Repository**: [https://github.com/Suther2005/Celebration-Event-Planner](https://github.com/Suther2005/Celebration-Event-Planner)
+
 ---
 
 ## 🎯 Problem Statement & Solution
