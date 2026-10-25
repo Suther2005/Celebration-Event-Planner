@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { useEventContext } from '../../context/EventContext';
 import { GEMINI_MODEL, categorizeGeminiError } from '../../services/geminiService.js';
 import { Key, ShieldCheck, Sparkles, X, Check, ExternalLink, AlertTriangle, Clock, RefreshCw } from 'lucide-react';
