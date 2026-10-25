@@ -172,7 +172,7 @@ export const StatCards = ({ event, onNavigate }) => {
           <p className="text-xs font-bold text-slate-400 uppercase tracking-wider">Guest Count</p>
           <div className="flex items-baseline gap-2 mt-1">
             <h3 className="text-2xl font-display font-extrabold text-slate-900">
-              {guestCount}
+              {event.guestCount || 0}
             </h3>
             <span className="text-xs text-slate-500">attendees</span>
           </div>
